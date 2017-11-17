@@ -1,6 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 const Discord = require('discord.js');
+const const Xvfb = require('xvfb');
 const Nightmare = require('nightmare');
 const electron = require('electron');
 const client = new Discord.Client();
