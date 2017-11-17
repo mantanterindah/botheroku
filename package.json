@@ -11,7 +11,6 @@
     "discord.js": "^11.2.1",
     "electron": "^1.7.9",
     "nightmare": "^2.10.0",
-    "phantomjs": "^2.1.7",
     "request": "^2.83.0",
     "xvfb": "^0.2.3"
   }
