@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: xvfb-run node bot.js
